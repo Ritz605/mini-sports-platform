@@ -1,0 +1,17 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Vite / React
+dist/
+build/
+
+# Environment variables
+.env
+
+# Docker
+postgres_data/
+
+# OS
+.DS_Store
+Thumbs.db
