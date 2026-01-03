@@ -7,7 +7,7 @@ const favoriteRoutes = require("./routes/favorite.routes")
 const app = express();
 
 app.use(cors({
-  origin: ["https://your-frontend-url.vercel.app"],
+  origin: ["https://mini-sports-platform.vercel.app"],
   credentials: true
 }));
 
