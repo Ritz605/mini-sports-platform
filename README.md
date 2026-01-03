@@ -104,3 +104,5 @@ docker compose down
 - POST /favorites/:matchId
 - DELETE /favorites/:matchId
 - GET /favorites
+
+## App is Live- https://mini-sports-platform.vercel.app
